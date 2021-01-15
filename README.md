@@ -1,2 +1,2 @@
 # Weather-API
-In this project, I have created weather api with javascript,html and css. I have used weather api key it shows current status of weather..
+In this project, I have created a weather API with javascript, HTML, and CSS. I have used the weather API key it shows the current status of the weather
